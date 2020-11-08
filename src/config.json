@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "ascb-lms.learn",
     "appname": "Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3920,
@@ -78,7 +78,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://ascb-lms.learn",
     "sitename": "",
     "multisitesdisplay": "",
     "onlyallowlistedsites": false,
